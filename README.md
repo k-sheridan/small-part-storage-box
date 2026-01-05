@@ -21,6 +21,7 @@ A 3D printable parametric, gridfinity compatible, stacking, and latching small p
 ![Small Parts Box](https://github.com/user-attachments/assets/d84e7c1c-6393-46b0-bf0c-c9a4b0f15a17)
 
 ## 🛠 Assembly
+[![Demo Video](https://img.youtube.com/vi/A-Rvlv8kKwA/0.jpg)](https://youtube.com/shorts/A-Rvlv8kKwA)
 
 This design requires a small number of readily available hardware components.
 
